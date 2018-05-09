@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding:0px;
+}
+.slider{
+    border: 1px solid;
+    height: 90vh;
+    width: 250px;
+    min-width: 250px;
+    background-color: #1b2940;
+}
+.slider-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
